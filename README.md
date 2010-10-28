@@ -1,6 +1,8 @@
 jQTouch
 =======
 
+**This is a test change to see if I can commit it successfully.  (I'm new to Git and find it a bit confusing at the moment)
+
 Create powerful mobile apps with just HTML, CSS, and jQuery.
 ------------------------------------------------------------
 
